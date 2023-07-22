@@ -5,6 +5,7 @@ This repository contains a custom-trained YOLOv5 model for detecting emotions on
 1. Introduction
 2. Dataset
 3. Training
+4. Evaluation
 5. Results
 
 ## Introduction
